@@ -1,5 +1,12 @@
 /* Styly */
 
+/* Nastavení stylu nadpisu */
+h2 {
+    color: red;
+    text-align: center;
+    font-size: 40px;
+}
+
 /* Nastavení pozadí pro odstavce */
 p {
     background-color: lightgoldenrodyellow;
