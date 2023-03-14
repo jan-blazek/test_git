@@ -1,1 +1,7 @@
 /* Styly */
+
+/* Nastavení pozadí pro odstavce */
+p {
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
+}
