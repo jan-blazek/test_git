@@ -1,1 +1,6 @@
 /* Styly */
+
+/* Nastavení stylu nadpisu */
+h2 {
+    color: red;
+}
